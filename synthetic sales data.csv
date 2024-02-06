@@ -1,0 +1,15 @@
+Month,Advertiser name,Ad Spend,Base GMV,Factor,Attributed Sales,Total GMV,% Catg Share
+Jan-23,Advertiser 1,0,51000,5,0,51000,25%
+Feb-23,Advertiser 1,0,50000,5,0,50000,25%
+Mar-23,Advertiser 1,0,52000,5,0,52000,25%
+Apr-23,Advertiser 1,5000,50500,5,25000,75500,27%
+May-23,Advertiser 1,6000,51000,6,36000,87000,28%
+Jun-23,Advertiser 1,7000,50000,7,49000,99000,28%
+Jul-23,Advertiser 1,10000,52000,8,80000,132000,35%
+Aug-23,Advertiser 1,10000,50500,9,90000,140500,40%
+Sep-23,Advertiser 1,5000,51000,8,40000,91000,30%
+Oct-23,Advertiser 1,2000,50000,8,16000,66000,27%
+Nov-23,Advertiser 1,0,52000,8,0,52000,25%
+Dec-23,Advertiser 1,0,50500,8,0,50500,25%
+Jan-24,Advertiser 1,0,50000,8,0,50000,25%
+,,,,,,,
