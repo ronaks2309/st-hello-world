@@ -1,14 +1,14 @@
 Month,Advertiser name,Ad Spend,Base GMV,Factor,Attributed Sales,Total GMV,% Catg Share
-23-Jan,Advertiser 1,0,51000,5,0,51000,25%
-23-Feb,Advertiser 1,0,50000,5,0,50000,25%
-23-Mar,Advertiser 1,0,52000,5,0,52000,25%
-23-Apr,Advertiser 1,5000,50500,5,,50500,27%
-23-May,Advertiser 1,6000,51000,6,,51000,28%
-23-Jun,Advertiser 1,7000,50000,7,25000,125000,28%
-23-Jul,Advertiser 1,10000,52000,8,36000,160000,35%
-23-Aug,Advertiser 1,10000,50500,9,49000,197500,40%
-23-Sep,Advertiser 1,5000,51000,8,30000,141000,30%
-23-Oct,Advertiser 1,2000,50000,8,2000,56000,27%
-23-Nov,Advertiser 1,0,52000,8,0,52000,25%
-23-Dec,Advertiser 1,0,50500,8,0,50500,25%
-24-Jan,Advertiser 1,0,50000,8,0,50000,25%
+23-Jan,Advertiser 1,0,51000,4,0,51000,25%
+23-Feb,Advertiser 1,0,50000,3,0,50000,25%
+23-Mar,Advertiser 1,0,52000,4,0,52000,25%
+23-Apr,Advertiser 1,0,50500,3,0,50500,27%
+23-May,Advertiser 1,0,51000,4,0,51000,28%
+23-Jun,Advertiser 1,7000,50000,3,21000,71000,28%
+23-Jul,Advertiser 1,10000,52000,4,40000,92000,35%
+23-Aug,Advertiser 1,10000,50500,3,30000,80500,40%
+23-Sep,Advertiser 1,5000,51000,4,20000,71000,30%
+23-Oct,Advertiser 1,2000,50000,4,8000,58000,27%
+23-Nov,Advertiser 1,0,52000,3,0,52000,25%
+23-Dec,Advertiser 1,0,50500,3,0,50500,25%
+24-Jan,Advertiser 1,0,50000,4,0,50000,25%
